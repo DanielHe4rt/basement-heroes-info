@@ -17,7 +17,9 @@ The proposal with the creation of this game was to make the interaction within t
 
 ## Contact
 
-### Basement heroes
+if you need any help or have any doubts, don't hesitate in contact us, we will stay very happy in help
+
+### Basement Heroes
 
 + [Discord](https://discord.gg/c3tyh58NNB)
 
