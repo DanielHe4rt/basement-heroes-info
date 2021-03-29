@@ -2,7 +2,7 @@
 
 In the Basement there is the possibility of creating guilds to get the players to the same goal.
 
-|Suffix|Command|Description|
+|Prefix|Command|Description|
 |:---: | :---: |:---: | 
 |->guild|create "nick"|Command with the objective to create a guild|
 |->guild|accept "nick"|Command with the objective to accept a guild's invite| 
