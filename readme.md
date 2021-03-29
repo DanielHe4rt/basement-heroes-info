@@ -11,9 +11,9 @@ The proposal with the creation of this game was to make the interaction within t
 2. [About](./contents/About.md)
 3. [Points](./contents/Points.md)
 4. [Guilds](./contents/Guilds.md)
-5. [Dashboard](./contents/Dashboard.md)
-
-
+5. [Dashboard](./contents/Dashboard.md)  
+    + Blog
+    + Drop
 
 ## Contact
 
